@@ -10,8 +10,7 @@ class HWIDManager {
 private:
 	std::string urlDownload;
 	std::string newHWID;
-	std::string hwid;
-
+	
 	char massHWID[200];
 	char namePC[3000];
 	DWORD size = 3000;
